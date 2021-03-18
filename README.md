@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my tech profile.
-- 🌱 I’m currently learning JavaScript/React/NodeJs.
+- 🌱 I’m currently learning HTML/CSS/JavaScript/React/NodeJs.
 - 👯 I’m looking to collaborate on various project in my group.
 - 🤔 I’m looking for help with 
 - 💬 Ask me about coding
