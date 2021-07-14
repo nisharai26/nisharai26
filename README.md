@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about coding
 - 📫 How to reach me:(https://www.linkedin.com/in/nisha-rai-0b395028/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am trying really hard to wake up early in the morning.
 
-I am trying really hard to wake up early in the morning.
+
